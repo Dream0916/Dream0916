@@ -49,7 +49,7 @@
 
 ## ⚡ Recent GitHub Activity
 <br/>
- <img alt="FutureSea-dev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=futuresea-dev&custom_title=FutureSea-Dev's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+ <img alt="FutureSea-dev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dream0916&custom_title=Dream0916's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 <br/>
 
 ## 📊 Github Stats
