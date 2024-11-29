@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Full-Stack+(Backend-Heavy);Python/PHP+%7C%7C+React+%7C%7C+Vue+%7C%7C+Typescript+%7C%7C+Web3+%7C%7C+Node;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="futuresea-dev">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Full-Stack+(Backend-Heavy);Python/PHP+%7C%7C+React+%7C%7C+Vue+%7C%7C+Typescript+%7C%7C+Web3+%7C%7C+Node;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="Dream0916">
 </p>
 <hr/>
 
@@ -43,16 +43,16 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=futuresea-dev&theme=tokyonight_duo&hide_border=true" alt="futuresea-dev" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dream0916&theme=tokyonight_duo&hide_border=true" alt="Dream0916" />
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
 ## ⚡ Recent GitHub Activity
 <br/>
- <img alt="FutureSea-dev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dream0916&custom_title=Dream0916's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+ <img alt="Dream0916's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dream0916&custom_title=Dream0916's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 <br/>
 
 ## 📊 Github Stats
 
-<img align="left" alt="FutureSea-Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=futuresea-dev&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
-<img align="right" alt="FutureSea-Dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futuresea-dev&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+<img align="left" alt="Dream0916's Github Stats" src="https://github-readme-stats.vercel.app/api?username=futuresea-dev&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
+<img align="right" alt="Dream0916's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futuresea-dev&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
